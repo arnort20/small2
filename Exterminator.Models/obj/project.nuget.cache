@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0yFbQLUrFwXViGxO8bC6K0cnNoIz5TtkvcljecJ5FCk8wJpY4JUQ7HzUTdAg2spVDRTFGE5P2PJJaRqqfn9vcg==",
+  "success": true,
+  "projectFilePath": "/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Models/Exterminator.Models.csproj",
+  "expectedPackageFiles": [
+    "/home/arnor/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

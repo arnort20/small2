@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "RKmtxLqiwbCxbFNobBiaVNbk1ufhrymgdFrStETgNp8=",
+  "Source": "Exterminator.WebApi",
+  "BasePath": "_content/Exterminator.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Exterminator.WebApi/wwwroot",
+      "Source": "Exterminator.WebApi",
+      "ContentRoot": "/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.WebApi/wwwroot/",
+      "BasePath": "_content/Exterminator.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

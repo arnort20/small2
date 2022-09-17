@@ -1,0 +1,17 @@
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/bin/Debug/net6.0/Exterminator.Services.deps.json
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/bin/Debug/net6.0/Exterminator.Services.dll
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/bin/Debug/net6.0/Exterminator.Services.pdb
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/bin/Debug/net6.0/Exterminator.Models.dll
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/bin/Debug/net6.0/Exterminator.Repositories.dll
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/bin/Debug/net6.0/Exterminator.Models.pdb
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/bin/Debug/net6.0/Exterminator.Repositories.pdb
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/obj/Debug/net6.0/Exterminator.Services.csproj.AssemblyReference.cache
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/obj/Debug/net6.0/Exterminator.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/obj/Debug/net6.0/Exterminator.Services.AssemblyInfoInputs.cache
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/obj/Debug/net6.0/Exterminator.Services.AssemblyInfo.cs
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/obj/Debug/net6.0/Exterminator.Services.csproj.CoreCompileInputs.cache
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/obj/Debug/net6.0/Exterminator.Services.csproj.CopyComplete
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/obj/Debug/net6.0/Exterminator.Services.dll
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/obj/Debug/net6.0/refint/Exterminator.Services.dll
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/obj/Debug/net6.0/Exterminator.Services.pdb
+/home/arnor/Documents/hr/VEFT/small2/template/Exterminator.Services/obj/Debug/net6.0/ref/Exterminator.Services.dll
